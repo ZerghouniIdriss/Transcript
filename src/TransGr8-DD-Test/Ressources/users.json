@@ -1,0 +1,50 @@
+﻿[
+  {
+    "Level": 3,
+    "HasVerbalComponent": true,
+    "HasSomaticComponent": true,
+    "HasMaterialComponent": true,
+    "Range": 200,
+    "HasConcentration": true
+  },
+  {
+    "Level": 3,
+    "HasVerbalComponent": true,
+    "HasSomaticComponent": true,
+    "HasMaterialComponent": true,
+    "Range": 200,
+    "HasConcentration": false
+  },
+  {
+    "Level": 1,
+    "HasVerbalComponent": true,
+    "HasSomaticComponent": false,
+    "HasMaterialComponent": false,
+    "Range": 120,
+    "HasConcentration": false
+  },
+  {
+    "Level": 5,
+    "HasVerbalComponent": false,
+    "HasSomaticComponent": true,
+    "HasMaterialComponent": false,
+    "Range": 180,
+    "HasConcentration": true
+  },
+  {
+    "Level": 2,
+    "HasVerbalComponent": false,
+    "HasSomaticComponent": false,
+    "HasMaterialComponent": true,
+    "Range": 150,
+    "HasConcentration": false
+  },
+  {
+    "Level": 4,
+    "HasVerbalComponent": true,
+    "HasSomaticComponent": false,
+    "HasMaterialComponent": false,
+    "Range": 120,
+    "HasConcentration": false
+  }
+]
